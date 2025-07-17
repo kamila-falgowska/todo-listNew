@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://kamila-falgowska.github.io/todo-listNew/
+https://kamila-falgowska.github.io/todo-list/
 
 ## Description
 
